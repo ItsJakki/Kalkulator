@@ -1,4 +1,5 @@
 <h1>
   Kalkulator Višine
   </h1>
-![slika](https://github.com/ItsJakki/Kalkulator/assets/129556241/a6cdbde9-2b68-4349-8903-727799446eba)
+  
+![Screenshot 2024-05-01 193150](https://github.com/ItsJakki/Kalkulator/assets/129556241/ab8ac2e7-d1f0-4a5b-bb36-063d385df164)
